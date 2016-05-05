@@ -1,0 +1,28 @@
+name: Vizual Jockey
+favicon: null
+layout_spectrum: 0.3846378105226904
+typography_spectrum: 0.03537680325098336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8246437518391758
+  lightness: 0.10192680894397199
+  saturation: 0.7264149547554553
+  rhythmicContrast: 0.19875821913592517
+purpose: []
